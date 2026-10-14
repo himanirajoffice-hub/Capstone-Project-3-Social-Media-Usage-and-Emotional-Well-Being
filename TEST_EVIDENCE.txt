@@ -1,0 +1,7 @@
+Local checks completed 14 October 2026 using Python 3.12, scikit-learn 1.6.1 and Streamlit 1.50.0.
+Model load: passed.
+Streamlit AppTest initial render: passed.
+Default profile prediction: Happiness; passed.
+Unknown gender profile prediction: passed.
+Saved test metrics independently recalculated: accuracy 0.6037735849056604; Macro F1 0.5690231230832254.
+Cloud deployment and public URL verification remain pending.
